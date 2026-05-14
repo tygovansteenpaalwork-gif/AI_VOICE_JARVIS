@@ -1,0 +1,5 @@
+elevenlabs
+openai
+pillow
+dotenv
+langchain_community
